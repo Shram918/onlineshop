@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 ul, li, a, p{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    
+    
+    
+}
+.navbar-brand{
+    color: black;
+    font-size: 36px;
+}
+.nav-link{
+    color: cadetblue;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+.blue{
+    background: #4cb1ca;
+    padding: 20px 0;
+    
+}
+.d .text p{
+    color: #7db122;
+    font-size: 18px;
+    
+    
+    
+}
+.d .text h1{
+    color: black;
+    font-size: 14px;
+    
+    
+    
+}
+.d i{
+    color: #fff;
+    font-size: 24px;
+    background: #7db122;
+    padding: 10px;
+    border-radius: 50%;
+     
+}
+.d{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.adw{
+    width: 100%;
+}
+.dw{
+    font-size: 24px;
+    color: #635f57;
+    text-transform: uppercase;
+    margin-top: 47px;
+    margin-bottom: 10px;
+
+}
+.ds{
+    margin-bottom: 30px;
+}
+.carousel-indicators [data-bs-target]{
+    border-radius: 100%;
+    background: blue;
+    opacity: inherit;
+    padding: 10px;
+    width: 14px;
+}
+.carousel-indicators .active{
+    background: green
+}
+.carousel-indicators {
+    bottom: -53px;
+}
+.bt h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+.bt p{
+    text-align: center;
+}
+.bt{
+    margin-top: 100px;
+    
+}
+.gt{
+    display: flex;
+    flex-direction: column;
+}
+.gt button{
+    background: #7db122;
+    margin: auto;
+    margin-top: 19px;
+    width: 112px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    
+    
+    
+    
+    
+}
+.Vc{
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+.Vc a{
+    color: #fff;
+    font-size: 21px;
+    
+}
+.footer-top{
+    background: #4cb1ca;
+    padding-top: 21px;
+    padding-bottom: 20px;
+    
+}
+.futoor-center{
+    background: #39a0b9;
+    padding-top: 49px;
+    padding-bottom: 60px;
+}
+.futoor-center i{
+    color: #fff;
+}
+.txtx{
+     margin-top: 34px;
+   color: #fff;
+}
+.fgt{
+    color: #fff;
+    
+}
+.Til{
+    display: flex;
+    flex-direction: column;
+}
+.fgt i{
+    width: 44px;
+    height: 43px;
+}
